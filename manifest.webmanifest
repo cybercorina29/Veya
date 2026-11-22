@@ -1,0 +1,19 @@
+{
+  "id": "/Veya/",
+  "name": "VEYA — The Formulation Atelier",
+  "short_name": "VEYA",
+  "description": "Personal formulation archive, products and fragrance blends",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2eee6",
+  "theme_color": "#41483e",
+  "icons": [
+    {
+      "src": "./veya-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
