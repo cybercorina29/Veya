@@ -31,3 +31,5 @@ nav a{padding:12px 0;border-bottom:1px solid transparent}nav a[aria-current="pag
 .ingredient{font-size:13px}
 button:focus-visible,a:focus-visible,select:focus-visible{outline:2px solid var(--umber);outline-offset:4px}
 @media(max-width:760px){.page-hero{grid-template-columns:1fr;padding-top:60px}.page-hero .count{text-align:left}.tiles{grid-template-columns:1fr}.tile{min-height:360px}.intro-strip{display:block}nav a:nth-child(2){display:inline}nav{gap:10px}header{padding:0 4%}.brand{font-size:32px}}
+
+#install-veya{display:none;position:fixed;right:18px;bottom:18px;z-index:35;background:#41483e;color:#faf8f3;border:1px solid #e1d9c8;box-shadow:0 10px 30px #2225;padding:16px 22px;font-size:11px;font-weight:600;letter-spacing:.13em;cursor:pointer}#install-veya.visible{display:block}
